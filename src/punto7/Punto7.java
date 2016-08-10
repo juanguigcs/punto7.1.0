@@ -20,6 +20,7 @@ public class Punto7 {
         // TODO code application logic here
         //ay dio mio 
         //ay dio mio 2
+        //ay diomio 3
         basedatos c1 =new basedatos();
         Scanner lector= new Scanner(System.in);
         int contm1,contm2,contm3,contm4;
