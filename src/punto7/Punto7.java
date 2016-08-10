@@ -18,10 +18,12 @@ public class Punto7 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //ay dio mio 
+        //ay dio mio 2
         basedatos c1 =new basedatos();
         Scanner lector= new Scanner(System.in);
         int contm1,contm2,contm3,contm4;
-        double fecha;
+        double fecha, fecha2;
         do{
             System.out.println("1.ingresar usuario");
             System.out.println("2. estadisticas ");
