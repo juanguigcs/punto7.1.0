@@ -21,10 +21,11 @@ public class Punto7 {
         //ay dio mio 
         //ay dio mio 2
         //ay diomio 3
+        //ay diomio 4
         basedatos c1 =new basedatos();
         Scanner lector= new Scanner(System.in);
         int contm1,contm2,contm3,contm4;
-        double fecha, fecha2;
+        double fecha;
         do{
             System.out.println("1.ingresar usuario");
             System.out.println("2. estadisticas ");
